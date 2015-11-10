@@ -1,0 +1,35 @@
+{
+  "name": "Omicron",
+  "version": "0.0.1",
+  "homepage": "https://github.com/IronRunes/Omicron",
+  "authors": [
+    "Alan Zard <tech@alanzard.com>"
+  ],
+  "description": "A small framework for small platforms.",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sortable": "~1.11.1",
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0",
+    "bootstrap-select": "~1.6.5",
+    "eonasdan-bootstrap-datetimepicker": "~4.7.14",
+    "summernote": "~0.6.6",
+    "bootstrap-fileinput": "~4.2.0",
+    "Chart.js": "~1.0.2",
+    "jquery.floatThead": "~1.2.12"
+  },
+  "devDependencies": {
+   
+  }
+}

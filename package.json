@@ -1,0 +1,29 @@
+{
+  "name": "Omicron",
+  "version": "0.0.1",
+  "description": "Small framework for small platforms",
+  "main": "index.php",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "devDependencies": {
+    "less-plugin-clean-css": "^1.5.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alan Zard",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IronRunes/Omicron.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IronRunes/Omicron/issues"
+  },
+  "homepage": "https://github.com/IronRunes/Omicron"
+}

@@ -1,0 +1,5 @@
+/node_modules
+/config/config.php
+/public/assets/src
+/public/uploads
+/craft
